@@ -10,8 +10,8 @@ The data for the project is at: https://d396qusza40orc.cloudfront.net/getdata%2F
 
 The dataset includes the following files:
 
-- 'README.txt'
-- 
+• 'README.txt'
+ 
 •	'features_info.txt': Shows information about the variables used on the feature vector.
 
 •	'features.txt': List of all features.
