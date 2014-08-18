@@ -34,9 +34,12 @@ Appropriately labels the data set with descriptive variable names.
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-The R script merges two data sets named test and training.  
+The R script merges two data sets named test and training. 
+
 Only columns that have means and standard deviation are kept and the dataset’s activites are labelled. 
+
 The required tidy data set is then created.
+
 A code book describing the variables is also available in this repo. 
 
 
