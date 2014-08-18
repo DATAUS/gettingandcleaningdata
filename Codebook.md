@@ -5,7 +5,9 @@ Information about the variables for the course project.
 
 Source Data
 A full description of the data is available from the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
+
 The data for the project is at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+
 The dataset includes the following files:
 - 'README.txt'
 •	'features_info.txt': Shows information about the variables used on the feature vector.
@@ -90,6 +92,7 @@ finalData
 
 PART 2
 reqfinalData
+
 PART 3
 reqfinalData
 
